@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [https://akauriht.netlify.app/](https://akauriht.netlify.app/)
+- 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
-- 📝 I regularly write articles on [https://medium.com/@akauriht](https://medium.com/@akauriht)
+- 📝 I regularly write articles on [](https://medium.com/@mahendrakumawat80224)](https://medium.com/@mahendrakumawat80224)
 
 - 💬 Ask me about **AWS , Ethical hacking , React JS**
 
