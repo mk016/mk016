@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **java, AWS Cloud, c++ Programming, React JS**
 
-- 👯 I’m looking to collaborate on **Socket Progrmming**
+- 👯 I’m looking to collaborate on **cyber security**
 
 - 🤝 I’m looking for help with **AWS Cloud**
 
@@ -43,7 +43,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-//![](https://github-contributor-stats.vercel.app/api?username=uriht&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![]([https://github-contributor-stats.vercel.app/api?username=uriht&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/mk016?tab=repositories))
 
 
 
