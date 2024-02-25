@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
-- 📝 I regularly write articles on [](https://medium.com/@mk016)](https://medium.com/@mk016)
+- 📝 I write articles on [](https://medium.com/@mk016)](https://medium.com/@mk016)
 
-- 💬 Ask me about **AWS , Ethical hacking , React JS**
+- 💬 Ask me about ** , Ethical hacking , React JS**
 
 - 📫 How to reach me **mahendrakumawat80224@gmail.com**
 
-- 📄 Know about my experiences [http://tiny.cc/resumeda](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [http://resume](https://drive.google.com/drive/my-drive)
 
 - ⚡ Fun fact **Did you know that the first computer virus was created in 1983 and was called "Elk Cloner"? It was written by a 15-year-old student named Richard Skrenta as a prank and was designed to infect Apple II operating systems via floppy disks. This fun fact showcases the importance of cybersecurity and the need for continuous vigilance in protecting computer systems from malware and viruses.**
 
