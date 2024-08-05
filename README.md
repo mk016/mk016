@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Mahendra Kumawat</h1>
 <h3 align="center">Ethical Hacker ,programmer ,researcher on a mission to create positive change through technology</h3>
 
-- 🌱 I’m currently learning **javascript, AWS Cloud, c++ Programming, React JS,MERN STACK**
+- 🌱 I’m currently learning **javascript, AWS Cloud, Figma , UI/UX, React JS,MERN STACK**
 
 - 👯 I’m looking to collaborate on **cyber security**
 
