@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on CYBER SECURITY [Text to NFT](text-to-nft-tyk1.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [@mk016](@mk016)
+- 👨‍💻 All of my projects are available at [@mk016](mahendrakumawat.xyz)
 
 - 📝 I regularly write articles on [@mk016](@mk016)
 
