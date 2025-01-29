@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahendra kumawat</h1>
-<h3 align="center">Ethical Hacker ,programmer ,researcher on a mission to create positive change through technology</h3>
+<h3 align="center">National Finalist SIH'24 || HackIndia National Finalist 2024 || Web3 Builder | Full Stack Developer |Certificate in Ethical Hacking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mk016&label=Profile%20views&color=0e75b6&style=flat" alt="mk016" /> </p>
 
